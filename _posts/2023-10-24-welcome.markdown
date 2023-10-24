@@ -3,6 +3,11 @@ layout: post
 title:  "Welcome to 萌萌酱"
 date:   2023-10-24 00:05:28 +0800
 categories: jekyll update
+tags: hello
 ---
 
 这是萌萌酱的github page。
+
+萌萌酱是ENFP
+
+欢迎小伙伴们找萌萌酱来玩～

@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "uCore-Tutorial"
+date:   2023-10-24 20:18:45 +0800
+categories: jekyll update
+tags: note
+---
+
+感觉做ucore的小朋友好多。为了防止被问住，感觉还是需要先做一遍。
+orz私密马赛我是ddl战士

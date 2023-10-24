@@ -3,8 +3,40 @@ layout: post
 title:  "使用方式"
 date:   2023-10-24 00:24:03 +0800
 categories: jekyll update
+tags: hello
 ---
 
 本地测试站点：命令行
 
 ```bundle exec jekyll serve```
+
+
+有时候需要
+
+```bundle build```
+
+or
+
+```bundle update```
+
+
+提交修改：
+
+```
+git add .
+git commit -m "comments"
+git push
+```
+
+更换主题：
+
+https://jekyllrb.com/docs/configuration/
+
+（不过我对现在的UI很满意，应该不会再换。）
+
+
+github page dependency versions：
+https://pages.github.com/versions/
+
+官方文档：
+https://docs.github.com/zh/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
